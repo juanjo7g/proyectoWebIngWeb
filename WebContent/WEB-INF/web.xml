@@ -16,6 +16,6 @@
 
 	<servlet-mapping>
 		<servlet-name>Jersey REST Service</servlet-name>
-		<url-pattern>/rest/*</url-pattern> <!-- Responde el servlet al acceder a http://localhost:8080/res/* -->
+		<url-pattern>/rest/*</url-pattern> <!-- Responde el servlet al acceder a http://localhost:8080/proyectoWebIngWeb/res/* -->
 	</servlet-mapping>
 </web-app>
